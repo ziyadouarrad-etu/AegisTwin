@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assembly Robot Arm
+* source:	https://sketchfab.com/3d-models/assembly-robot-arm-65b03e22e9e64b7087906747f209aad8
+* author:	Infant (https://sketchfab.com/infant2k4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assembly Robot Arm" (https://sketchfab.com/3d-models/assembly-robot-arm-65b03e22e9e64b7087906747f209aad8) by Infant (https://sketchfab.com/infant2k4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
